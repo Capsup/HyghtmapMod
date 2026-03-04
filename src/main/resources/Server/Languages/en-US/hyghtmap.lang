@@ -16,6 +16,11 @@ customUI.heightmapImport.browserTitle = Select Heightmap
 customUI.heightmapImport.colormapBrowserTitle = Select Colormap
 customUI.heightmapImport.searchPlaceholder = Search files...
 
+# Common UI actions
+customUI.browse = Browse
+customUI.select = Select
+customUI.cancel = Cancel
+
 # Import modes
 customUI.heightmapImport.mode.heightmap = Heightmap (Solid)
 customUI.heightmapImport.mode.surface = Surface Only
